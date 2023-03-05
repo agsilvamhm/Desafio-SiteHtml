@@ -5,7 +5,7 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 * Formulários
 * Estruturação e formatação de texto
 * Mídias
-* Tabelas...  
+* Tabelas  
 Além de outros recursos falados nas aulas!
 
 ## Instruções
